@@ -6,7 +6,7 @@ import { auth, db, provider } from './firebase.js'
 import PlannerApp from './planner/PlannerApp.jsx'
 import AdminPanel from './planner/AdminPanel.jsx'
 
-const ADMIN_EMAIL = 'zhihang.chen@rutgers.edu'
+const ADMIN_EMAIL = 'zc473@scarletmail.rutgers.edu'
 const FONTS = `@import url('https://fonts.googleapis.com/css2?family=DM+Serif+Display&family=DM+Mono:wght@400;500;600&family=DM+Sans:wght@400;500;600&display=swap');`
 
 
